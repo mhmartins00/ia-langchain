@@ -33,5 +33,5 @@ No arquivo main, altere o conteudo de `query` para realizar a sua pergunta.
 
     print(result)
 
-Depois rode o seguinte comando para compilar o arquivo comp.txt
+Depois rode o seguinte comando para executar o langchain
  > python main.py
